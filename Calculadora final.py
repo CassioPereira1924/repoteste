@@ -36,4 +36,4 @@ elif operacao == '*':
   print(f'O resultado da multiplicação é: {resultado}')
 else:
   resultado = num / num2
-  print(f'O resultado da divisão é: {resultado}')
+  print(f'O resultado da divisão é 3: {resultado}')
